@@ -11,5 +11,5 @@ Sample website with plenty of files for demos
 
 pleaser fork
 
-Git.Training
+Git.Training All rights reservedQ
 
