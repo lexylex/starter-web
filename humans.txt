@@ -13,3 +13,4 @@ Please leave a revie
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
